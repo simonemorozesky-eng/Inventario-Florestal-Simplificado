@@ -32,3 +32,7 @@ Como montar um Inventário Florestal Simplificado
 – Transfira-os para uma planilha
 
 ## Finalize o documento com a ajuda de um técnico
+
+## 🔎Referências
+
+### Senar
